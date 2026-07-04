@@ -8,6 +8,6 @@ This website aims to create a user-friendly platform for obtaining information o
 HOW?
 TBC.
 
-Building on a Elizabeth Line spinoff of [a GCSE-level code practice](https://time2code.today/python-course/python-level-5/python-london-underground).
+Building on an Elizabeth Line spinoff of [a GCSE-level code practice](https://time2code.today/python-course/python-level-5/python-london-underground).
 
 This is my first large-scale project and would appreciate any feedback.
